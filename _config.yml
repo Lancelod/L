@@ -1,1 +1,3 @@
-baseurl: /L
+name: L
+markdown: redcarpet
+pygments: true

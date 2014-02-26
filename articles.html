@@ -1,0 +1,10 @@
+---
+title: L
+layout: default
+---
+{% for post in site.posts %}
+<a href={{post.url}}><h3>{{ post.title }}</h3></a><h6>updated at {{ post.date | date: " %H:%M:%S %-d, %-B, %Y" }}</h6> 
+</br><h5>{{ post.excerpt }}</br></br></h5>
+{% endfor %}
+
+
