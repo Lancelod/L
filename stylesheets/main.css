@@ -12,6 +12,7 @@
 
 html, body { 
 	background-image: url(../img/bgi.jpg);
+	background-repeat: no-repeat;
 	height: 100%; 
 	}
 
