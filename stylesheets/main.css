@@ -13,6 +13,7 @@
 html, body { 
 	background-image: url(../img/bgi.jpg);
     background-position:center;
+	background-repeat: repeat-n;
 	height: 100%; 
 	}
 
